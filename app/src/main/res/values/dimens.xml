@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="total_huesos">36sp</dimen>
+    <dimen name="nombre_mascota">26sp</dimen>
+    <dimen name="telefono_contacto">20sp</dimen>
+    <dimen name="titulo">24sp</dimen>
+    <dimen name="top">20sp</dimen>
+    <dimen name="left">10dp</dimen>
+    <dimen name="corner_radius_cardvies">4dp</dimen>
+    <dimen name="nombre_cardview">20sp</dimen>
+    <dimen name="elevacion_accitionbar">4dp</dimen>
+    <dimen name="total_huesos_separacion">15dp</dimen>
+    <dimen name="textos">18sp</dimen>
+    <dimen name="titulo_contacto">25sp</dimen>
+    <dimen name="desarollador">30sp</dimen>
+    <dimen name="margen_creador">30dp</dimen>
+    <dimen name="margen_ingeniero">30dp</dimen>
+    <dimen name="informacion">20sp</dimen>
+    <dimen name="name_perfil">30dp</dimen>
+</resources>

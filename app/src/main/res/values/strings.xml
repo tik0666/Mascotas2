@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+
+
+    <!--CAMBIAR POR TU EMAIL Y PASSWORD-->
+    <string name="tucorreo">tucorreo@gmail.com</string>
+    <string name="tupassword">tupassword</string>
+
+
+    <string name="nombre">Nombre</string>
+    <string name="telefono">6642144714</string>
+    <string name="email">Correo</string>
+    <string name="contacto">Contacto</string>
+    <string name="comentario_enviandose">El comentario se esta enviando...</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="descripcion">Descripción</string>
+    <string name="enviar">Enviar</string>
+    <string name="creador">Creador: Francisco Murillo</string>
+    <string name="informacion1">Ingeniero en Sistemas de Información.</string>
+    <string name="informacion2">Aplicación de mascotas desarrollada en Android Studio implementando menús, Libreria JavaMail, View Pager, Modularizacion en Fragments. Está fue creada para el curso Desarrollo de aplicaciones con Android como tarea de la semana 4.</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
